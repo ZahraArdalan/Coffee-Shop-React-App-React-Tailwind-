@@ -1,0 +1,39 @@
+/* فلش‌های Swiper (قبل و بعد) */
+.swiper-button-prev,
+.swiper-button-next {
+  color: #71380c !important; /* قهوه‌ای طلایی */
+  background-color: #cfac81;
+  border-radius: 15px;
+  width: 40px;
+  height: 40px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+  transition: all 0.3s ease;
+  
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: #532b0d;
+  color: rgb(204, 178, 142) !important;
+}
+
+/* سایز آیکون داخل فلش */
+.swiper-button-prev::after,
+.swiper-button-next::after  {
+  font-size: 14px ;
+}
+
+
+
+
+
+/* دات‌های پایین */
+.swiper-pagination-bullet {
+  background: #facc15; /* زرد طلایی */
+  opacity: 0.5;
+}
+
+.swiper-pagination-bullet-active {
+  background: #622e05; /* قهوه‌ای تیره */
+  opacity: 1;
+}
