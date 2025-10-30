@@ -5,6 +5,7 @@ Users can browse coffee items, add them to the shopping cart, view cart details 
 
 ---
 ## 👉 View Live Site
+- https://coffee-shop-react-app-react-tailwin.vercel.app/
 
 ----
 
