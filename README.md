@@ -43,7 +43,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/coffee-shop-react.git
+git clone https://github.com/ZahraArdalan/Coffee-Shop-React-App-React-Tailwind-
 
 # Move into the project folder
 cd coffee-shop-react
@@ -63,7 +63,7 @@ npm run dev
 
 👩‍💻 Zahra Ardalan
 
-📫 GitHub: https://github.com/YourUsername
+📫 GitHub: https://github.com/ZahraArdalan
 
 ✨ Designed & Developed with ❤️ using React + Tailwind CSS
 
